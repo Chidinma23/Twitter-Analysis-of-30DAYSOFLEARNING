@@ -32,7 +32,6 @@ The following insights were drawn from the data
 8. Tools by mentions
 9. User Tweets
 
-Interact with my Dashboard and report here: https://drive.google.com/file/d/1eOD7pA33F6b7ZaWDsQUM0W_qq9qsdfkY/view?usp=share_link
 
 # Conclusions
 1. Data was collected for 25 days in the month of June but 23 days were visualized. This was investigated and was found out that there was no data for the 3rd and 4th most likely because the numbers rounded up to zero so there were no data on them. In 23 days, there were 645 tweets from 197 users. The top twwets by a user and top twitter handler form the #30DAYSOFLEARNING is 'TheOyinbooke' 
